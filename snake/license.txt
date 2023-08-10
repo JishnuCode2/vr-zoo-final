@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snake Model
+* source:	https://sketchfab.com/3d-models/snake-model-ce642db7a44b4cbb9bbae22b977df0ae
+* author:	dercruz926 (https://sketchfab.com/dercruz926)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snake Model" (https://sketchfab.com/3d-models/snake-model-ce642db7a44b4cbb9bbae22b977df0ae) by dercruz926 (https://sketchfab.com/dercruz926) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

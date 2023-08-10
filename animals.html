@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    
+        <title>ZOO INTERIOR</title>
+
+        <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+        <script src="./js/zooInfo.js"></script>
+
+    </head>
+    <body>
+       <a-scene>
+            <a-assets>
+                <a-asset-item id="model" src="./deer/scene.gltf"></a-asset-item>
+            </a-assets>
+            <a-entity position="0 0 2" camera wasd-controls="enabled: false" show>
+                <a-plane color="blue" position="0 0.8 -1" scale="4 0.5 1"></a-plane>
+                <a-entity id="animal"></a-entity>
+                <a-plane position="0.9 -0.15 -1" color="#45b6fe" scale="1.5 1.2 1" >
+                    <a-entity position="0.55 0.4 0">
+                      <a-entity text="width:2;color:black;font:exo2bold;value:Name: " ></a-entity>
+                      <a-entity id="name" position="-0.1 0.025 0" text="width:1.2;color:black;font:mozillavr"></a-entity>                        
+                    </a-entity>
+                    <a-entity position="0.3 0.2 0">
+                        <a-entity text="width:1.5;color:black;font:exo2bold;value:Scientific Name: " ></a-entity>
+                        <a-entity id="sc-name" position="-0.05 0 0" text="width:0.8;color:black;font:mozillavr;align:center"></a-entity>                        
+                    </a-entity>
+                    <a-entity position="0.3 0 0">
+                        <a-entity text="width:1.5;color:black;font:exo2bold;value:Habitat: " ></a-entity>
+                        <a-entity id="habitat" position="-0.2 0 0" text="width:0.5;color:black;font:mozillavr"></a-entity>                        
+                    </a-entity>
+                </a-plane>
+                <a-image position="-1.2 -0.7 -1" src="./images/Untitled.jpg" scale="0.5 0.25 1"></a-image>
+                <a-image position="-0.6 -0.7 -1" src="./images/Untitled.jpg" scale="0.5 0.25 1" rotation="0 180 0"></a-image>
+                <a-entity id="label" text="width:3;color:black;font:exo2bold" position="0 0.7 -1"></a-entity>
+                <a-entity id="number" text="width:3;color:black;font:exo2bold" position="2.8 0.7 -1"></a-entity>
+            </a-entity>
+       </a-scene>
+    </body>
+</html>

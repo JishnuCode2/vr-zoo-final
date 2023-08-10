@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dolphin <CHO_NADA>
+* source:	https://sketchfab.com/3d-models/dolphin-cho-nada-930bc7cc7bd7444bac3af3ce738143c7
+* author:	fubarfanat2 (https://sketchfab.com/slideboom)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dolphin <CHO_NADA>" (https://sketchfab.com/3d-models/dolphin-cho-nada-930bc7cc7bd7444bac3af3ce738143c7) by fubarfanat2 (https://sketchfab.com/slideboom) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

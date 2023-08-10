@@ -1,0 +1,11 @@
+Model Information:
+* title:	Komodo Dragon (NHMW-Zoo1-HS 23783)
+* source:	https://sketchfab.com/3d-models/komodo-dragon-nhmw-zoo1-hs-23783-09a82ad5c86e44abbcc1f37c2f862042
+* author:	Natural History Museum Vienna (https://sketchfab.com/NHMWien)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Komodo Dragon (NHMW-Zoo1-HS 23783)" (https://sketchfab.com/3d-models/komodo-dragon-nhmw-zoo1-hs-23783-09a82ad5c86e44abbcc1f37c2f862042) by Natural History Museum Vienna (https://sketchfab.com/NHMWien) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
